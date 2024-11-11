@@ -15,4 +15,5 @@
   Our tag analysis, based on 890 distinct tags, shows that “Huggingface-Transformers” (22.6%) is the most frequently used tag, highlighting its prominent role in  
   the HF ecosystem.
   For a summary of the key visualizations, see [distinct_users_per_year.pdf](results/distinct_users_per_year.pdf).
+  [Annual Trend Chart](results/distinct_users_per_year.pdf)
 
