@@ -4,7 +4,7 @@
 ## 📂 Repository Structure
 
 - **📦 HF_SO_2019_2024.rar**   
-  Contains the raw data collected from Stack Overflow posts related to Hugging Face. This dataset spans from 2019 to 2024 and includes metadata from relevant         
+  Contains the raw data collected from Stack Overflow posts related to Hugging Face. This dataset spans from 2019 to 2024 and includes metadata from relevan 
   questions and answers.
 
 - **📊 RQ1_HF_Trends.ipynb**  
