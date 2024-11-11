@@ -14,5 +14,4 @@
   questions. Despite this rise, 75.7% of the questions remain without an accepted answer, indicating that many users still struggle to find adequate solutions.
   Our tag analysis, based on 890 distinct tags, shows that “Huggingface-Transformers” (22.6%) is the most frequently used tag, highlighting its prominent role in  
   the HF ecosystem.
-  For a summary of the key visualizations, see [distinct_users.png](figures/distinct_users.png)
-
+  ![distinct_users](https://github.com/user-attachments/assets/defaf03b-1b5a-44ee-9842-0aa359eaa02d)
