@@ -17,3 +17,5 @@
 
 
  ![distinct_users](https://github.com/user-attachments/assets/defaf03b-1b5a-44ee-9842-0aa359eaa02d)
+ ![Nu_Q_W_WO_Answer_horizontal](https://github.com/user-attachments/assets/ca1a82ba-2635-4a81-b407-71d981f2c340)
+ ![Growth_10 Popular_Tags](https://github.com/user-attachments/assets/5619e04f-09d3-4ee4-b6e3-196ea4a8adc5)
