@@ -1,6 +1,14 @@
 # 📚 Replication-Package-HFProject
 **An Empirical Study on Hugging Face Trends, Topics, and Challenges on Stack Overflow**
 
+## 📄 About
+
+This repository contains the replication package for the paper **"An Empirical Study on Hugging Face Trends, Topics, and Challenges on Stack Overflow"**, accepted at the **2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)**.
+
+📎 **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/11126738)
+
+The study presents an empirical analysis of Stack Overflow discussions related to Hugging Face (HF) from 2019 to 2024. We investigate how HF-related discussions have evolved over time, identify the key topics discussed by developers, and assess which topics are the most popular and the most difficult. Using LDA topic modeling with multi-objective hyperparameter tuning, we uncover eight primary discussion topics and analyze their popularity and difficulty through metrics such as view counts, scores, and the percentage of unanswered questions.
+
 ## 📂 Repository Structure
 
 - **📥 data_collection.ipynb**
